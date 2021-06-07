@@ -1,0 +1,74 @@
+[
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt1.jpg?raw=true",
+        "title": "Голубая футболка",
+        "description": "Обычная Голубая футболка",
+        "price": "1250",
+        "id": "1",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt2.jpg?raw=true",
+        "title": "Зеленая футболка",
+        "description": "Обычная Зеленая футболка",
+        "price": "750",
+        "id": "2",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt3.jpg?raw=true",
+        "title": "Чёрная футболка",
+        "description": "Обычная Чёрная футболка",
+        "price": "500",
+        "id": "3",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt4.jpg?raw=true",
+        "title": "Бирюзовая футболка",
+        "description": "Обычная Бирюзовая футболка",
+        "price": "1250",
+        "id": "4",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt5.jpg?raw=true",
+        "title": "Футболка в полоску",
+        "description": "Обычная Футболка в полоску",
+        "price": "555",
+        "id": "5",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt6.jpg?raw=true",
+        "title": "Футболка Корона",
+        "description": "Обычная Футболка Корона",
+        "price": "500",
+        "id": "6",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt7.jpg?raw=true",
+        "title": "Голубая футболка с надписью",
+        "description": "Обычная Голубая футболка с надписью",
+        "price": "1250",
+        "id": "7",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt8.jpg?raw=true",
+        "title": "Футболка Корона №2",
+        "description": "Обычная Футболка Корона №2",
+        "price": "750",
+        "id": "8",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/mahmud-sajib/ecommerce-store-product-data/blob/master/t-shirt9.jpg?raw=true",
+        "title": "Белая футболка с надписью",
+        "description": "Обычная Белая футболка с надписью",
+        "price": "750",
+        "id": "9",
+        "isFavorite": false
+    }
+]
